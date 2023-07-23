@@ -26,7 +26,7 @@ The Car Rental Management System uses a Microsoft SQL Server database named "CRM
       CRMS
       
   B. **Database Schema:**
-      ![RDBMS DIAGRAM](RDBMS20%DIAGRAM.png)
+      ![RDBMS DIAGRAM](/RDBMS%20DIAGRAM.png)
       
   C. **Sample Data Insertion:**
       For demonstration purposes, sample data has been inserted into the CAR_CATEGORY and CAR_DETAILS tables. However, in a real-world application, this data 
