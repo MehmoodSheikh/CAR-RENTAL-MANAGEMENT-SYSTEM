@@ -43,7 +43,7 @@ The Car Rental Management System uses a Microsoft SQL Server database named "CRM
       a. Clone the repository to your local machine using the following command: 
       
           ```bash
-          git clone https://github.com/MehmoodSheikh/CAR-RENTAL-MENAGEMENT-SYSTEM.git
+          git clone https://github.com/MehmoodSheikh/CAR-RENTAL-MANAGEMENT-SYSTEM.git
           ```
       
       b. Install the required Python modules by running the following command:
